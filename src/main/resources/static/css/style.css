@@ -9,7 +9,11 @@
 /*-- Reset Code --*/
 @font-face {
     font-family: "Coca-Cola Regular rus-lat";
-    src: url("fonts/coca-cola-font.otf");
+    src: url('../fonts/coca-cola-font.otf');
+    src: url('../fonts/coca-cola-font.eot') format('embedded-opentype'),
+    url('../fonts/coca-cola-font.woff') format('woff'),
+    url('../fonts/coca-cola-font.ttf') format('truetype'),
+    url('../fonts/coca-cola-font.svg') format('svg');
 }
 body {
 	padding: 0;
