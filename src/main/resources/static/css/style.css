@@ -7,6 +7,10 @@
 --*/
 
 /*-- Reset Code --*/
+@font-face {
+    font-family: "Coca-Cola Regular rus-lat";
+    src: url("fonts/coca-cola-font.otf");
+}
 body {
 	padding: 0;
 	margin: 0;
